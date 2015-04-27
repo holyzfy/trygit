@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>detail</title>
+<!--#include virtual="inc/head_static.html"-->
+</head>
+
+<body>
+<h1>detail</h1>
+<!--#include virtual="inc/foot_static.html"-->
+<script src="js/detail.js"></script>
+<script>
+NEHouse.detail();
+</script>
+</body>
+</html>
