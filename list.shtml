@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>列表页</title>
+<!--#include virtual="inc/head_static.html"-->
+</head>
+
+<body>
+<p><img src="images/logo_107.gif" alt=""></p>
+<ol>
+	<li>曝毕福剑离职 助理称台里结果未出暂无确切打算</li>
+	<li>李晨发范冰冰新戏剧照 网友:要公开恋情的节奏吗</li>
+	<li>魔性的课本涂鸦 诗词名家遭恶搞</li>
+	<li>网曝湖南益阳多名法官违纪 庭长带神秘女子开房</li>
+	<li>中国女土豪拟近3500万买外国小岛 送女儿当玩具</li>
+	<li>知情人曝谢娜已怀孕 张杰悉心询问孩子状况</li>
+	<li>阿里影业业绩大降355% 赵薇入股百日赚62亿港</li>
+	<li>魏晨与大学同学秘密恋情曝光 同居做饭显恩爱</li>
+	<li>5s仅卖2099元起 官翻二手iPhone将开售</li>
+	<li>月薪3000若还这样活，得512年才能娶老婆！</li>
+</ol>
+<!--#include virtual="inc/foot_static.html"-->
+</body>
+</html>
