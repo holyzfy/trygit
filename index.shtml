@@ -11,6 +11,7 @@
 <script _group="zepto" SRC="js/m_callbacks.js"></script>
 <script src=js/m_deferred.js _group="zepto"></script>
 <script src="js/arttemplate.js"></script>
+<script src="js/common.js"></script>
 </head>
 
 <body>
@@ -22,13 +23,13 @@
 		<li>zhao fuqiang</li>
 	</ul>
 	<p>&copy; 页脚</p>
-<script _group="all" src='js/m_index.js'></script>
-<script src='js/m_detail.js' _group="all"></script>
-	<script>
-		window.console && console.log('test aaa');
-	</script>
-	<script _group="test">
-		window.console && console.log('test bbb');
-	</script>
+<script _group="index" src='js/m_index.js'></script>
+<script _group="index" src='js/m_index_b.js'></script>
+<script>
+	NEHouse.index();
+</script>
+<script _group="test_should_skip">
+	NEHouse.indexB();
+</script>
 </body>
 </html>
