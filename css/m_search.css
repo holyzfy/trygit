@@ -31,22 +31,6 @@
   border: 0;
   opacity: 0;
 }
-.s_countrylist span {
-  display: block;
-  padding: 0 20px 0 12px;
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAPCAYAAAAVk7TYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAU1JREFUeNq01EtLAlEYxvHTCaQ+R6u+QC1CshuIXRdCga36XkVBUQRFQXcKCkwXgbgopKJ9VERREUhh/wNPMAw6ekoP/HTwvO/7MDPOtFVuUzFjTBdKpnWrG3eWj1Xk0NOioF7kXY4LW0AnjtDX5CA37xAdmHdhu5iEu5z7iDcpKK55Mc3fs9pw6RNoV0Hin0EDONC8cc03NlBwjFEdu7Md+WOQ69tBBSmc/G7YUOEpkvjGto59VlJ9Xzo+C27aKg1ZFZaxFTjbemtMQWX1Z8MFtkZjTpfjE5u6wVFrChv4UF++WpGNGHCBIbxjHekadWntv2FYfcY3zK2CAl/18E+H9mewhhcFFaKG2QbuRRGDeMYKMvp9Fst40l+9WG+QbfDmX+rZe8SSextgEQ8KumpkiPX4W5cUeI85fSd8XuDW8zm6VsA5+nHj0/wjwAA5z0j1qamPxwAAAABJRU5ErkJggg==) no-repeat right center;
-  -webkit-background-size: 14px 8px;
-  -moz-background-size: 14px 8px;
-  -ms-background-size: 14px 8px;
-  -o-background-size: 14px 8px;
-  background-size: 14px 8px;
-  max-width: 60px;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  line-height: 46px;
-  color: #fff;
-  white-space: nowrap;
-}
 .s_search {
   position: absolute;
   right: 1px;
