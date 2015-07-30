@@ -13,14 +13,14 @@
 .s_header .logo {
   position: relative;
   top: 8px;
-  background: #3c3c3c url('http://www.baidu.com/img/baidu_jgylogo3.gif');
+  background: #3c3c3c url('../images/logo_107.jpg');
 }
 .s_countrylist {
   position: absolute;
   left: 0;
   top: 0;
   font-size: 12px;
-  background: #3c3c3c url("http://www.baidu.com/img/baidu_jgylogo3.gif");
+  background: #3c3c3c url("../images/yuko_ogura.png");
 }
 .s_countrylist select {
   position: absolute;

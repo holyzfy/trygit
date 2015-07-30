@@ -13,13 +13,11 @@
 <script src="js/arttemplate.js"></script>
 <script src="js/common.js"></script>
 <style>
+.title {
+	font-size: 30px;
+}
 .section {
 	margin: 30px;
-	border: 10px solid #ccc;
-}
-.section_hd {
-	margin-bottom: 10px;
-	font-size: 20px;
 }
 .test_bg {
 	display: inline-block;
@@ -31,7 +29,7 @@
 </head>
 
 <body>
-	<h1>trygit</h1>
+	<h1 class="title">各种测试用例</h1>
     <div class="section">
     	<img src="images/logo.jpg" alt="">
 		<span class="test_bg"></span>
@@ -44,12 +42,12 @@
 
 	<div class="section">
 		<video width="320" height="240" controls>
-			<source src="http://www.w3schools.com/html/mov_bbb.mp4">
+			<source src="images/mov_bbb.mp4">
 		</video>
 	</div>
 
 	<div class="section">
-		<embed width="400" height="50" src="http://www.w3schools.com/html/bookmark.swf">
+		<embed width="400" height="50" src="images/bookmark.swf">
 	</div>
 
 	<p>&copy; 页脚</p>
