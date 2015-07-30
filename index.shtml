@@ -12,16 +12,46 @@
 <script src=js/m_deferred.js _group="zepto"></script>
 <script src="js/arttemplate.js"></script>
 <script src="js/common.js"></script>
+<style>
+.section {
+	margin: 30px;
+	border: 10px solid #ccc;
+}
+.section_hd {
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+.test_bg {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background: url(images/logo.jpg);
+}
+</style>
 </head>
 
 <body>
 	<h1>trygit</h1>
-    <div><img src="images/logo.jpg" alt=""></div>
-    <h2>合作者</h2>
-	<ul>
-		<li>zhao fuyun</li>
-		<li>zhao fuqiang</li>
-	</ul>
+    <div class="section">
+    	<img src="images/logo.jpg" alt="">
+		<span class="test_bg"></span>
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />
+	</div>
+    
+	<div class="section">
+		<object data="http://www.baidu.com/img/baidu_jgylogo3.gif"></object>
+	</div>
+
+	<div class="section">
+		<video width="320" height="240" controls>
+			<source src="http://www.w3schools.com/html/mov_bbb.mp4">
+		</video>
+	</div>
+
+	<div class="section">
+		<embed width="400" height="50" src="http://www.w3schools.com/html/bookmark.swf">
+	</div>
+
 	<p>&copy; 页脚</p>
 <script _group="index" src='js/m_index.js'></script>
 <script _group="index" src='js/m_index_b.js'></script>

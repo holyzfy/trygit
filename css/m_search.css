@@ -1,18 +1,26 @@
+.test_bg_in_css {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: url(../images/logo.jpg);
+}
 .s_header {
   position: relative;
   z-index: 200;
   height: 46px;
-  background-color: #3c3c3c;
+  background: #3c3c3c url(http://www.baidu.com/img/baidu_jgylogo3.gif);
 }
 .s_header .logo {
   position: relative;
   top: 8px;
+  background: #3c3c3c url('http://www.baidu.com/img/baidu_jgylogo3.gif');
 }
 .s_countrylist {
   position: absolute;
   left: 0;
   top: 0;
   font-size: 12px;
+  background: #3c3c3c url("http://www.baidu.com/img/baidu_jgylogo3.gif");
 }
 .s_countrylist select {
   position: absolute;
