@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="css/common.css" _group="all">
 <link rel="stylesheet" href="css/m_carousel.css" _group="all">
 <link rel="stylesheet" href="css/m_carousel_style.css" _group="all">
+<link rel="stylesheet" href="css/test.css">
 <link rel="stylesheet" href="css/m_search.css" _group="all">
 <script id="zeptojs" src="js/m_zepto.js" _group="zepto"></script>
 <script _group="zepto" SRC="js/m_callbacks.js"></script>
