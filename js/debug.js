@@ -1,0 +1,1 @@
+NEHouse.debug = console.debug;

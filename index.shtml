@@ -8,11 +8,13 @@
 <link rel="stylesheet" href="css/m_carousel_style.css" _group="all">
 <link rel="stylesheet" href="css/test.css">
 <link rel="stylesheet" href="css/m_search.css" _group="all">
+<link rel="stylesheet" href="css/debug.css" _inline _compress>
 <script id="zeptojs" src="js/m_zepto.js" _group="zepto"></script>
 <script _group="zepto" SRC="js/m_callbacks.js"></script>
 <script src=js/m_deferred.js _group="zepto"></script>
 <script src="js/arttemplate.js"></script>
-<script src="js/common.js"></script>
+<script src="js/common.js" _inline></script>
+<script src="js/debug.js" _inline _compress></script>
 <style>
 .title {
 	font-size: 30px;
