@@ -8,6 +8,7 @@
 
 <body>
 <h1>detail</h1>
+<!--#include virtual="inc/section.html"-->
 <!--#include virtual="inc/foot_static.html"-->
 <script src="js/detail.js"></script>
 <script>
