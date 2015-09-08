@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "mock",
+        "selenium",
+        "templates",
+        "test"
+    ]
+}
