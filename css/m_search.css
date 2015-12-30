@@ -13,14 +13,14 @@
 .s_header .logo {
   position: relative;
   top: 8px;
-  background: #3c3c3c url('../images/logo_107.jpg');
+  background: #3c3c3c url('../images/logo_107.gif');
 }
 .s_countrylist {
   position: absolute;
   left: 0;
   top: 0;
   font-size: 12px;
-  background: #3c3c3c url("../images/yuko_ogura.png");
+  background: #3c3c3c url("../images/yuko_ogura.jpg");
 }
 .s_countrylist select {
   position: absolute;
