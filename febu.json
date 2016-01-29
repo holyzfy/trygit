@@ -4,5 +4,11 @@
         "selenium",
         "templates",
         "test"
-    ]
+    ],
+    "development": {
+        "publicPath": "http://static.f2e.example.com/project"
+    },
+    "production": {
+        "publicPath": "http://examplecdn.com/project"
+    }
 }
