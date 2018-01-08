@@ -50,6 +50,10 @@
 	</div>
 
 	<div class="section">
+		<img src="images/user.svg" width="100" height="auto" alt="">
+	</div>
+
+	<div class="section">
 		<embed width="400" height="50" src="images/bookmark.swf">
 	</div>
 
